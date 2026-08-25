@@ -60,4 +60,8 @@ I believe the best way to learn technology is not by only studying theory, but b
 
 My goal is to become a versatile engineer capable of working across the boundary between **hardware and software** — someone who can understand a problem at the system level and build a practical solution for it.
 
+---
+
+<img src="./dancing_girl.svg" width="180" alt="dancing character" />
+
 </div>
