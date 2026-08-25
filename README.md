@@ -11,9 +11,6 @@
   <em>Engineering student and technology enthusiast who enjoys understanding how things work — from hardware and sensors to software and databases.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitvarma&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
 
 ---
 
