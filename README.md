@@ -1,3 +1,5 @@
+<div align="center">
+
 #  Hi, I'm Sumit Varma
 
 ### `Engineering • Hardware • Software • Problem Solving`
@@ -9,7 +11,6 @@ I'm particularly interested in **hardware troubleshooting, sensor integration, d
 > **"Don't just learn how to use technology. Learn how to understand, troubleshoot, and build it."**
 
 ---
-
 
 ##  Tech Stack
 
@@ -47,3 +48,5 @@ I believe the best way to learn technology is not by only studying theory, but b
 ##  Goals
 
 My goal is to become a versatile engineer capable of working across the boundary between **hardware and software** — someone who can understand a problem at the system level and build a practical solution for it.
+
+</div>
