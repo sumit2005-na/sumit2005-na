@@ -64,4 +64,8 @@ My goal is to become a versatile engineer capable of working across the boundary
 
 <img src="./dancing_girl.svg" width="180" alt="dancing character" />
 
+<br/>
+
+<img src="./f1_car.svg" width="100%" alt="f1 car animation" />
+
 </div>
