@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sumit Varma
+#  Hi, I'm Sumit Varma
 
 ### `Engineering • Hardware • Software • Problem Solving`
 
@@ -11,24 +11,24 @@ I'm particularly interested in **hardware troubleshooting, sensor integration, d
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming
+###  Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database
+###  Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔌 Hardware & Systems
+###  Hardware & Systems
 
 ![Sensors](https://img.shields.io/badge/Sensor%20Integration-0A0A0A?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware%20Troubleshooting-FF6F00?style=for-the-badge)
@@ -36,7 +36,7 @@ I'm particularly interested in **hardware troubleshooting, sensor integration, d
 
 ---
 
-## 🎯 My Approach
+##  My Approach
 
 > **Understand → Build → Test → Break → Debug → Improve**
 
@@ -44,6 +44,6 @@ I believe the best way to learn technology is not by only studying theory, but b
 
 ---
 
-## 🚀 Goals
+##  Goals
 
 My goal is to become a versatile engineer capable of working across the boundary between **hardware and software** — someone who can understand a problem at the system level and build a practical solution for it.
