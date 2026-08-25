@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Varma</h1>
+<h1 align="center">Sumit Varma</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineering-000000?style=for-the-badge" />
@@ -11,10 +11,13 @@
   <em>Engineering student and technology enthusiast who enjoys understanding how things work — from hardware and sensors to software and databases.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitvarma&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm particularly interested in **hardware troubleshooting, sensor integration, data testing, and building practical systems** that connect the physical world with software.
 
@@ -22,7 +25,7 @@ I'm particularly interested in **hardware troubleshooting, sensor integration, d
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Programming**
 
@@ -55,7 +58,7 @@ I'm particularly interested in **hardware troubleshooting, sensor integration, d
 
 ---
 
-### 🔄 My Approach
+### My Approach
 
 <p align="center">
   <b>Understand → Build → Test → Break → Debug → Improve</b>
@@ -65,7 +68,7 @@ I believe the best way to learn technology is not by only studying theory, but b
 
 ---
 
-### 🎯 Goals
+### Goals
 
 My goal is to become a versatile engineer capable of working across the boundary between **hardware and software** — someone who can understand a problem at the system level and build a practical solution for it.
 
