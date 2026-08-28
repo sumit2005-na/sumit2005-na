@@ -63,6 +63,6 @@ My goal is to become a versatile engineer capable of working across the boundary
 ---
 
 
-<img src="./f1_car.svg" width="100%" alt="f1 car animation" />
+
 
 </div>
